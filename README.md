@@ -1,5 +1,6 @@
 # HMIL
-code for https://www.ijcai.org/proceedings/2021/383
+code for Hierarchical Temporal Multi-Instance Learning for Video-based Student Learning Engagement Assessment
+https://www.ijcai.org/proceedings/2021/383
 
 model:https://pan.baidu.com/s/1TJxb5hwTrgBIplHTAhE4gQ 提取码：1234 
 
